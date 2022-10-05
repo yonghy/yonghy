@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 2. Currently learning <br>
 > #### AI 제어실습에서 **Python**과 **Mark Down**의 다양한 문법을 배우고 있습니다.
+> ---
 >> ![이미지](https://img.shields.io/badge/-mark%20down-yellow)
 >> ![이미지](https://img.shields.io/badge/-python-yellowgreen)
 ## 3. Looking to collaborate on <br>
@@ -33,12 +34,16 @@ Here are some ideas to get you started:
 
 ## 6. The place I live in
 > #### 저는 **한국폴리텍대학교 창원캠퍼스 기숙사**에서 실제 거주중입니다.
+> ---
 >> ##### 대한민국, 경남 창원시 성산구 외동반림로 51-88<br>
+>> ---
 >> ##### [출처 : 네이버지도] (https://map.naver.com/v5/entry/place/15838990?c=14323442.2951239,4194914.9217410,16.4,0,0,0,dh&isCorrectAnswer=true)<br>
+>> ---
 >> ##### ![네이버 지도](%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%A7%80%EB%8F%84.PNG)
 
 ## 7. My hobby <br>
 > #### 저의 취미는 `매우 다양` 합니다.
+> ---
 >> ##### 가장 대표적으로 **풋살**과 **배틀그라운드라**는 PC게임이 있습니다.
 
 ## 8. Recently an intest of issue
